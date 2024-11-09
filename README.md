@@ -5,5 +5,7 @@ To have this template up and running oon your local machne. Follow the following
 - Unzip it.
 - Open obsidian.
 - Now, don't create a new vault
-- Open an existing with from folder which in this case it will be "SECOND BRAIN"
+- Open an existing vault from your machine.
+- Choose the extracted folder, which in this case it will be "SECOND BRAIN"
+
 Enjoy!!! 
